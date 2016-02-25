@@ -7,4 +7,3 @@ link_with 'GEOSwift', 'GEOSwiftTests'
 
 pod 'geos', "~> 3.4.2a"
 pod 'CocoaLumberjack'
-pod 'Mapbox-iOS-SDK'
